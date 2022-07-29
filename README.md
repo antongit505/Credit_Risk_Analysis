@@ -12,49 +12,49 @@ Since credit risk is an unbalanced classification problem as good loans easily o
 
 ![](resources/images/oversampling.jpg)
 
-Balanced Accuracy: 0.61
-Precision high risk/low risk: 0.01 / 1.0
-Recall high risk/low risk: 0.63 / 0.59
+Balanced Accuracy: 0.61 <br/>
+Precision high risk / low risk: 0.01 / 1.0<br/>
+Recall high risk / low risk: 0.63 / 0.59
 
 ### SMOTE Oversampling
 
 ![](resources/images/smote-oversampling.jpg)
 
-Balanced Accuracy: 0.60
-Precision high risk/low risk: 0.01 / 1.0
-Recall high risk/low risk: 0.60 / 0.43
+Balanced Accuracy: 0.60<br/>
+Precision high risk / low risk: 0.01 / 1.0<br/>
+Recall high risk / low risk: 0.60 / 0.43
 
 ### Undersampling
 
 ![](resources/images/undersampling.jpg)
 
-Balanced Accuracy: 0.51
-Precision high risk/low risk: 0.01 / 1.0
-Recall high risk/low risk: 0.57 / 0.63
+Balanced Accuracy: 0.51<br/>
+Precision high risk / low risk: 0.01 / 1.0<br/>
+Recall high risk / low risk: 0.57 / 0.63
 
 ### Combination (Over and Under) Sampling
 
 ![](resources/images/combination.jpg)
 
-Balanced Accuracy: 0.61
-Precision high risk/low risk: 0.01 / 1.0
-Recall high risk/low risk: 0.68 / 0.55
+Balanced Accuracy: 0.61<br/>
+Precision high risk / low risk: 0.01 / 1.0<br/>
+Recall high risk / low risk: 0.68 / 0.55
 
 ### Balanced Random Forest Classifier
 
 ![](resources/images/random-forest.jpg)
 
-Balanced Accuracy: 0.78
-Precision high risk/low risk: 0.03 / 1.0
-Recall high risk/low risk: 0.68 / 0.89
+Balanced Accuracy: 0.78<br/>
+Precision high risk / low risk: 0.03 / 1.0<br/>
+Recall high risk / low risk: 0.68 / 0.89
 
 ### AdaBoost Classifier
 
 ![](resources/images/adaboost.jpg)
 
-Balanced Accuracy: 0.69
-Precision high risk/low risk: 0.85 / 1.0
-Recall high risk/low risk: 0.38 / 1.0
+Balanced Accuracy: 0.69<br/>
+Precision high risk / low risk: 0.85 / 1.0<br/>
+Recall high risk / low risk: 0.38 / 1.0
 
 ## Summary 
 
